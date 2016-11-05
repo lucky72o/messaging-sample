@@ -1,12 +1,2 @@
-
-.idea/.name
-.idea/compiler.xml
-.idea/copyright/
-.idea/encodings.xml
-.idea/libraries/Maven__org_springframework_security_spring_security_data_4_1_0_RELEASE.xml
-.idea/messaging-sample.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
 target/
+.idea/
